@@ -1,5 +1,5 @@
 
-        @media screen and (max-width:800px)  { /* mobile screen*/
+        @media screen and (max-width: 400px)  { /* mobile screen*/
         .page{
         flex-direction: column;
         width: 100vw;
@@ -46,7 +46,7 @@
 
 
 
-        @media screen and (min-width:800px) {
+        @media screen and (min-width:700px) {
      
         .page{
         justify-content: center;
